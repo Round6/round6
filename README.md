@@ -1,6 +1,7 @@
 ## Grupo Round 6
 
-- 🔭 O objetivo do Round 6 é desenvolver um produto que atue na ODS 1 (Erradicação da Pobreza) da ONU. 
+- 🎓 O Round 6 faz parte da 4ª Edição do ioasysCamp.
+- 🔭 O nosso objetivo é desenvolver um produto que atue na ODS 1 (Erradicação da Pobreza) da ONU. 
 - 🌱 Área de atuação: Brasil.
 
 <div align="center">
